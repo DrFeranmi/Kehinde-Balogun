@@ -1,6 +1,6 @@
 # Kehinde Balogun — Professional Portfolio
 
-Public portfolio for Dr Kehinde Ayantude Balogun: digital health, data and AI leader for large-scale health systems.
+Public portfolio for Dr Kehinde Ayantunde Balogun: digital health, data and AI leader for large-scale health systems.
 
 ## Portfolio focus
 
